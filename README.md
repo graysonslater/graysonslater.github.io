@@ -1,1 +1,1 @@
-This oproject has not been started yet
+This project has not been started yet
